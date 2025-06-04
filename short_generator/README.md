@@ -18,8 +18,6 @@ This workflow streamlines the creation and scheduling of motivational quote and 
 
 ![](n8n_workflow.png)
 
-## Live Demo
-
 ## Purpose
 
 To facilitate consistent and engaging content creation for YouTube channels focused on motivational quotes and memes, with minimal manual intervention.

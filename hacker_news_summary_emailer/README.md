@@ -16,8 +16,6 @@ This workflow provides a daily digest of Hacker News articles by summarizing a r
 
 ![](n8n_workflow.png)
 
-## Live Demo
-
 ## Purpose
 
 To enhance information consumption efficiency by delivering a summarized version of a top Hacker News article directly to the user's email.

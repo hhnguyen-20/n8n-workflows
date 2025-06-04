@@ -15,9 +15,6 @@ This workflow automates the summarization of meeting transcripts using AI and st
 
 ![](n8n_workflow.png)
 
-## Live Demo
-
-
 ## Purpose
 
 To automate the summarization of meeting transcripts, saving time and effort in reviewing key discussion points.

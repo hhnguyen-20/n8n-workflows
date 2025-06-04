@@ -19,8 +19,6 @@ This workflow automates the creation of horror story videos by generating conten
 
 ![](n8n_workflow.png)
 
-## Live Demo
-
 ## Purpose
 
 To enable the automatic generation of horror story videos, leveraging AI for content creation and multimedia integration.
