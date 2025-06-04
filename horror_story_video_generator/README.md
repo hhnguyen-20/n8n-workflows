@@ -13,6 +13,7 @@ This workflow automates the creation of horror story videos by generating conten
 - Together AI (image generation)
 - YouTube (background music)
 - FFmpeg (video creation)
+- YT-DLP (video downloader)
 
 ## Screenshot
 

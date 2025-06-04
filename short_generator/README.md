@@ -1,4 +1,4 @@
-# Motivational Shorts Automator
+# Short Generator
 
 Built with n8n, this workflow automates the entire process of creating motivational quote and meme shorts, from generating content with AI, managing data in Google Sheets, downloading and processing video and music footage, to scheduling and uploading the final videos to YouTube.
 
@@ -11,6 +11,8 @@ This workflow streamlines the creation and scheduling of motivational quote and 
 - Google Sheets
 - YouTube API
 - OpenRouter (AI model)
+- FFmpeg (video creation)
+- YT-DLP (video downloader)
 
 ## Screenshot
 
