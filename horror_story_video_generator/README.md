@@ -17,7 +17,7 @@ This workflow automates the creation of horror story videos by generating conten
 
 ## Screenshot
 
-![](n8n_workflow.png)
+![](horror-story-video-generator.png)
 
 ## Purpose
 
